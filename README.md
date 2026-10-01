@@ -14,7 +14,7 @@ A modern, web-based PDF utility designed to make document management simple and 
 - JavaScript (if used)
 
 ## 🚀 Live Demo
-Add your deployed GitHub Pages URL here.
+https://satyamroy9835.github.io/Pdfnexa/
 
 ## 💻 Getting Started
 1. Clone this repository.
